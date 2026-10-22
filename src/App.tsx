@@ -6,7 +6,7 @@ import {
 } from 'lucide-react'
 import { PhoneMock, type PhoneVariant } from './Phones'
 
-const EMAIL = 'santoshpatel.nita@gmail.com'
+const EMAIL = 'patelsantoshsingh3@gmail.com'
 const PHONE = '+91 63904 82917'
 const PHONE_LINK = 'tel:+916390482917'
 const LINKEDIN = 'https://www.linkedin.com/in/santoshpatelnita/'

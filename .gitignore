@@ -1,0 +1,8 @@
+node_modules
+dist
+deploy
+github-pages-build
+backup-*
+.DS_Store
+*.log
+*.local

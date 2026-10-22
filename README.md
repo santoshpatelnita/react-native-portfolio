@@ -51,6 +51,6 @@ To publish an update:
 3. Upload every file from `github-pages-build/` and commit. Pages redeploys in about a minute.
 
 ## Contact
-- Email: santoshpatel.nita@gmail.com
+- Email: patelsantoshsingh3@gmail.com
 - Phone: +91 63904 82917
 - LinkedIn: https://www.linkedin.com/in/santoshpatelnita/
